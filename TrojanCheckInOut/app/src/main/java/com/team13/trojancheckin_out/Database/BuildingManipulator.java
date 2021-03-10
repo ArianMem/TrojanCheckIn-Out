@@ -4,6 +4,7 @@ import com.team13.trojancheckin_out.UPC.Building;
 
 import java.io.File;
 import java.util.List;
+import java.util.Map;
 
 /**
  * This class communicates with the Buildings database to determine the configuration of the
